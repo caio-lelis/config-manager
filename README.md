@@ -58,11 +58,11 @@ db.close()
 
 ## Funcionalidades
 
-[x] Autenticação segura
-[x] CRUD de configurações
-[x] Interface amigável
-[x] Filtros por ambiente e serviço
-[x] Dockerizado
-[x] Documentação automática com Swagger
-[x] Dados persistidos
-[x] Categorização por serviços
+- [x] Autenticação segura
+- [x] CRUD de configurações
+- [x] Interface amigável
+- [x] Filtros por ambiente e serviço
+- [x] Dockerizado
+- [x] Documentação automática com Swagger
+- [x] Dados persistidos
+- [x] Categorização por serviços
