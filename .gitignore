@@ -1,6 +1,6 @@
-data/
+# data/
 *.db
 *.sqlite
-data/
+# data/
 *.db
 *.sqlite
